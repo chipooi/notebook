@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.d873a4ea.js";const a='{"title":"","description":"","frontmatter":{},"relativePath":"javascript/inheritance.md","lastUpdated":1621848897151}',r={};r.render=function(a,r,i,n,o,d){return t(),e("div")};export default r;export{a as __pageData};
