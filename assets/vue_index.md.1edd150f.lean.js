@@ -1,0 +1,1 @@
+import{o as s,c as n,a}from"./app.b1efbcd3.js";const p='{"title":"vue","description":"","frontmatter":{},"headers":[{"level":2,"title":"vue","slug":"vue-2"},{"level":3,"title":"vue","slug":"vue-3"}],"relativePath":"vue/index.md","lastUpdated":1621846196740}',o={},t=a('',7);o.render=function(a,p,o,e,r,c){return s(),n("div",null,[t])};export default o;export{p as __pageData};

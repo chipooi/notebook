@@ -1,1 +1,0 @@
-import{o as t,c as e}from"./app.d970f679.js";const o='{"title":"Home","description":"","frontmatter":{"home":true,"heroText":"Chipooi\'s Notebook","actionText":"Get Started","actionLink":"/javascript/"},"relativePath":"index.md","lastUpdated":1621846828295}',r={};r.render=function(o,r,a,i,n,d){return t(),e("div")};export default r;export{o as __pageData};
